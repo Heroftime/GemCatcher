@@ -22,7 +22,7 @@ To run Gem Catcher on your system, follow these steps:
 1. **Clone the Repository:**
    ```sh
    git clone https://github.com/Heroftime/GemCatcher.git
-   cd gem-catcher
+   cd GemCatcher
    ```
 
 2. **Install MonoGame:**
